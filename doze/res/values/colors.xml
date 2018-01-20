@@ -18,6 +18,6 @@
 -->
 <resources>
     <color name="switch_bar_background">#ff37474f</color>
-    <color name="switch_accent_color">#ff7fcac3</color>
+    <color name="switch_accent_color">#ff4285f4</color>
     <color name="system_secondary_color">#ff37474F</color>
 </resources>
